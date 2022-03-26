@@ -78,6 +78,7 @@ td > a:hover{
 #Titulo{
     font-family:Arial, Helvetica, sans-serif; 
     text-transform: uppercase;
+    font-weight: bold;
     font-size: 17.5px
 }
 
@@ -192,6 +193,10 @@ b a{
 
 }
 
+#espaciaodra{
+    letter-spacing: 5px;
+}
+
 #tachado{
 
     text-decoration: line-through;
@@ -292,3 +297,92 @@ b a{
     font-weight: 1200;
 
 }
+
+#padding_izquierdo{
+
+    padding-left: 100x;
+
+}
+
+
+
+#padding_derecho{
+
+    padding-right: 100x;
+
+}
+
+#padding_arriba{
+
+    padding-top: 100x;
+
+}
+
+#espacio_letras{
+    word-spacing: 5px;
+}
+
+#padding_abajo{
+
+    padding-bottom: 100x;
+
+}
+
+#padding_general{
+
+    padding-left: 100x;
+
+    padding-right: 100x;
+
+    padding-top: 100x;
+
+    padding-bottom: 100x;
+
+}
+
+#centrado{
+text-align: center;
+}
+
+#derecha{
+    text-align: right;
+}
+
+#izquierda{
+    text-align: left;
+}
+
+#justificado{
+    text-align: justify;
+}
+
+#visible{
+    overflow: visible;
+}
+
+#invisible{
+    overflow: hidden;
+}
+
+
+
+#margen_arriba{
+    margin-top: 100px;
+}
+
+#margen_abajo{
+    margin-bottom: 100px;
+}
+#margen_izquierda{
+    margin-left: 100px;
+}
+
+#margen_derecha{
+    margin-right: 150px;
+}
+#margen_general{margin-top: 100px;
+     margin-bottom: 100px;
+     margin-left: 100px; 
+     margin-right: 150px;
+    }
+
